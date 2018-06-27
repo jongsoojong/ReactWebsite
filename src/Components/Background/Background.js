@@ -22,7 +22,7 @@ class Background extends Component {
     render() {
         return (
             <div class='background'>
-            <Header />
+            <Header /> 
             </div>
         )
     }
