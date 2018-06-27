@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Contact.css';
 
-class Header extends Component {
+class Contact extends Component {
     constructor(props) {
         super(props);
         this.state = {

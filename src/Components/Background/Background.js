@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import Header from '../Header/Header';
-import './background.css';
+import './Background.css';
 
-class Header extends Component {
+class Background extends Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -21,7 +21,7 @@ class Header extends Component {
 
     render() {
         return (
-            <div class="background">
+            <div class='background'>
             <Header />
             </div>
         )

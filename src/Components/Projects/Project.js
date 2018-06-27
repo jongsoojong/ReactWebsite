@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Project.css';
 
-class Header extends Component {
+class Project extends Component {
     constructor(props) {
         super(props);
         this.state = {
