@@ -20,7 +20,7 @@ class Header extends Component {
 
     render() {
         return (
-            <div class="Project">
+            <div class="project">
             </div>
         )
     }

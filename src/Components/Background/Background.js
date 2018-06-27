@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Header from '../Header/Header';
 import './background.css';
 
 class Header extends Component {
@@ -21,8 +22,9 @@ class Header extends Component {
     render() {
         return (
             <div class="background">
+            <Header />
             </div>
         )
     }
 }
-export default Header;
+export default Background;
