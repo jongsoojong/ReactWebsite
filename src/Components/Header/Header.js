@@ -23,7 +23,7 @@ class Header extends Component {
             <div class="header-background">
                 <div class="header-content">
                     <div class="logo">
-                    Jong
+                    Jongsoo
                     </div>
                     <ul class="header-links">
                         <li class="links-props">ABOUT ME</li>

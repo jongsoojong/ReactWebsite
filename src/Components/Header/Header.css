@@ -22,7 +22,6 @@
     -webkit-margin-end: 0px;
 }
 
-
 .header-links {
     list-style-type: none;
     margin-left: auto;
@@ -31,6 +30,7 @@
 
 .links-props {
     padding: 20px;
+    cursor: pointer;
 }
 
 li:hover {
